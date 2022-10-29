@@ -1,2 +1,2 @@
 # dio-desafio-git
-Repositorio criado para o primeiro desafio de projeto.
+Repositorio criado para o primeiro desafio de projeto!
